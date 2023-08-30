@@ -1,3 +1,8 @@
+#
+# TO BE UPDATED
+# THIS IS PLACEHOLDER CODE
+#
+
 from stockfish import Stockfish
 import copy
 
